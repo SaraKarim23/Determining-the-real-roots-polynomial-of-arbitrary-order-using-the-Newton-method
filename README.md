@@ -1,0 +1,1 @@
+# Determining-the-real-roots-polynomial-of-arbitrary-order-using-the-Newton-method
